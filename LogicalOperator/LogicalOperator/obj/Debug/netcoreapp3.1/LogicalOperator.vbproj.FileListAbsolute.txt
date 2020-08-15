@@ -1,0 +1,13 @@
+D:\Project\VS.Net\LogicalOperator\LogicalOperator\bin\Debug\netcoreapp3.1\LogicalOperator.exe
+D:\Project\VS.Net\LogicalOperator\LogicalOperator\bin\Debug\netcoreapp3.1\LogicalOperator.deps.json
+D:\Project\VS.Net\LogicalOperator\LogicalOperator\bin\Debug\netcoreapp3.1\LogicalOperator.runtimeconfig.json
+D:\Project\VS.Net\LogicalOperator\LogicalOperator\bin\Debug\netcoreapp3.1\LogicalOperator.runtimeconfig.dev.json
+D:\Project\VS.Net\LogicalOperator\LogicalOperator\bin\Debug\netcoreapp3.1\LogicalOperator.dll
+D:\Project\VS.Net\LogicalOperator\LogicalOperator\bin\Debug\netcoreapp3.1\LogicalOperator.pdb
+D:\Project\VS.Net\LogicalOperator\LogicalOperator\obj\Debug\netcoreapp3.1\LogicalOperator.vbprojAssemblyReference.cache
+D:\Project\VS.Net\LogicalOperator\LogicalOperator\obj\Debug\netcoreapp3.1\LogicalOperator.vbproj.CoreCompileInputs.cache
+D:\Project\VS.Net\LogicalOperator\LogicalOperator\obj\Debug\netcoreapp3.1\LogicalOperator.AssemblyInfoInputs.cache
+D:\Project\VS.Net\LogicalOperator\LogicalOperator\obj\Debug\netcoreapp3.1\LogicalOperator.AssemblyInfo.vb
+D:\Project\VS.Net\LogicalOperator\LogicalOperator\obj\Debug\netcoreapp3.1\LogicalOperator.dll
+D:\Project\VS.Net\LogicalOperator\LogicalOperator\obj\Debug\netcoreapp3.1\LogicalOperator.pdb
+D:\Project\VS.Net\LogicalOperator\LogicalOperator\obj\Debug\netcoreapp3.1\LogicalOperator.genruntimeconfig.cache
