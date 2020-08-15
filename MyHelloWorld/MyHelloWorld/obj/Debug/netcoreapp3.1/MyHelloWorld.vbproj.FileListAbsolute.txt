@@ -1,0 +1,11 @@
+D:\Project\VS.Net\MyHelloWorld\MyHelloWorld\bin\Debug\netcoreapp3.1\MyHelloWorld.exe
+D:\Project\VS.Net\MyHelloWorld\MyHelloWorld\bin\Debug\netcoreapp3.1\MyHelloWorld.deps.json
+D:\Project\VS.Net\MyHelloWorld\MyHelloWorld\bin\Debug\netcoreapp3.1\MyHelloWorld.runtimeconfig.json
+D:\Project\VS.Net\MyHelloWorld\MyHelloWorld\bin\Debug\netcoreapp3.1\MyHelloWorld.runtimeconfig.dev.json
+D:\Project\VS.Net\MyHelloWorld\MyHelloWorld\bin\Debug\netcoreapp3.1\MyHelloWorld.dll
+D:\Project\VS.Net\MyHelloWorld\MyHelloWorld\bin\Debug\netcoreapp3.1\MyHelloWorld.pdb
+D:\Project\VS.Net\MyHelloWorld\MyHelloWorld\obj\Debug\netcoreapp3.1\MyHelloWorld.vbprojAssemblyReference.cache
+D:\Project\VS.Net\MyHelloWorld\MyHelloWorld\obj\Debug\netcoreapp3.1\MyHelloWorld.AssemblyInfoInputs.cache
+D:\Project\VS.Net\MyHelloWorld\MyHelloWorld\obj\Debug\netcoreapp3.1\MyHelloWorld.AssemblyInfo.vb
+D:\Project\VS.Net\MyHelloWorld\MyHelloWorld\obj\Debug\netcoreapp3.1\MyHelloWorld.dll
+D:\Project\VS.Net\MyHelloWorld\MyHelloWorld\obj\Debug\netcoreapp3.1\MyHelloWorld.pdb
