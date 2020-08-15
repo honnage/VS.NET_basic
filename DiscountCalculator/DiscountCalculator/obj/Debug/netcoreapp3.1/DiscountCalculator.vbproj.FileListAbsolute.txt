@@ -1,0 +1,13 @@
+D:\Project\DEV_Code\VS.Net\VS_Basic\DiscountCalculator\DiscountCalculator\bin\Debug\netcoreapp3.1\DiscountCalculator.exe
+D:\Project\DEV_Code\VS.Net\VS_Basic\DiscountCalculator\DiscountCalculator\bin\Debug\netcoreapp3.1\DiscountCalculator.deps.json
+D:\Project\DEV_Code\VS.Net\VS_Basic\DiscountCalculator\DiscountCalculator\bin\Debug\netcoreapp3.1\DiscountCalculator.runtimeconfig.json
+D:\Project\DEV_Code\VS.Net\VS_Basic\DiscountCalculator\DiscountCalculator\bin\Debug\netcoreapp3.1\DiscountCalculator.runtimeconfig.dev.json
+D:\Project\DEV_Code\VS.Net\VS_Basic\DiscountCalculator\DiscountCalculator\bin\Debug\netcoreapp3.1\DiscountCalculator.dll
+D:\Project\DEV_Code\VS.Net\VS_Basic\DiscountCalculator\DiscountCalculator\bin\Debug\netcoreapp3.1\DiscountCalculator.pdb
+D:\Project\DEV_Code\VS.Net\VS_Basic\DiscountCalculator\DiscountCalculator\obj\Debug\netcoreapp3.1\DiscountCalculator.AssemblyInfoInputs.cache
+D:\Project\DEV_Code\VS.Net\VS_Basic\DiscountCalculator\DiscountCalculator\obj\Debug\netcoreapp3.1\DiscountCalculator.AssemblyInfo.vb
+D:\Project\DEV_Code\VS.Net\VS_Basic\DiscountCalculator\DiscountCalculator\obj\Debug\netcoreapp3.1\DiscountCalculator.vbproj.CoreCompileInputs.cache
+D:\Project\DEV_Code\VS.Net\VS_Basic\DiscountCalculator\DiscountCalculator\obj\Debug\netcoreapp3.1\DiscountCalculator.dll
+D:\Project\DEV_Code\VS.Net\VS_Basic\DiscountCalculator\DiscountCalculator\obj\Debug\netcoreapp3.1\DiscountCalculator.pdb
+D:\Project\DEV_Code\VS.Net\VS_Basic\DiscountCalculator\DiscountCalculator\obj\Debug\netcoreapp3.1\DiscountCalculator.genruntimeconfig.cache
+D:\Project\DEV_Code\VS.Net\VS_Basic\DiscountCalculator\DiscountCalculator\obj\Debug\netcoreapp3.1\DiscountCalculator.vbprojAssemblyReference.cache
