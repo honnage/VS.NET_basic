@@ -1,0 +1,10 @@
+D:\Project\VS.Net\String_Format\String_Format\bin\Debug\netcoreapp3.1\String_Format.exe
+D:\Project\VS.Net\String_Format\String_Format\bin\Debug\netcoreapp3.1\String_Format.deps.json
+D:\Project\VS.Net\String_Format\String_Format\bin\Debug\netcoreapp3.1\String_Format.runtimeconfig.json
+D:\Project\VS.Net\String_Format\String_Format\bin\Debug\netcoreapp3.1\String_Format.runtimeconfig.dev.json
+D:\Project\VS.Net\String_Format\String_Format\bin\Debug\netcoreapp3.1\String_Format.dll
+D:\Project\VS.Net\String_Format\String_Format\bin\Debug\netcoreapp3.1\String_Format.pdb
+D:\Project\VS.Net\String_Format\String_Format\obj\Debug\netcoreapp3.1\String_Format.AssemblyInfoInputs.cache
+D:\Project\VS.Net\String_Format\String_Format\obj\Debug\netcoreapp3.1\String_Format.AssemblyInfo.vb
+D:\Project\VS.Net\String_Format\String_Format\obj\Debug\netcoreapp3.1\String_Format.dll
+D:\Project\VS.Net\String_Format\String_Format\obj\Debug\netcoreapp3.1\String_Format.pdb
