@@ -1,0 +1,13 @@
+D:\Project\VS.Net\ArithmeticOperators\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.vbprojAssemblyReference.cache
+D:\Project\VS.Net\ArithmeticOperators\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.vbproj.CoreCompileInputs.cache
+D:\Project\VS.Net\ArithmeticOperators\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.AssemblyInfoInputs.cache
+D:\Project\VS.Net\ArithmeticOperators\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.AssemblyInfo.vb
+D:\Project\VS.Net\ArithmeticOperators\ArithmeticOperators\bin\Debug\netcoreapp3.1\ArithmeticOperators.exe
+D:\Project\VS.Net\ArithmeticOperators\ArithmeticOperators\bin\Debug\netcoreapp3.1\ArithmeticOperators.deps.json
+D:\Project\VS.Net\ArithmeticOperators\ArithmeticOperators\bin\Debug\netcoreapp3.1\ArithmeticOperators.runtimeconfig.json
+D:\Project\VS.Net\ArithmeticOperators\ArithmeticOperators\bin\Debug\netcoreapp3.1\ArithmeticOperators.runtimeconfig.dev.json
+D:\Project\VS.Net\ArithmeticOperators\ArithmeticOperators\bin\Debug\netcoreapp3.1\ArithmeticOperators.dll
+D:\Project\VS.Net\ArithmeticOperators\ArithmeticOperators\bin\Debug\netcoreapp3.1\ArithmeticOperators.pdb
+D:\Project\VS.Net\ArithmeticOperators\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.dll
+D:\Project\VS.Net\ArithmeticOperators\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.pdb
+D:\Project\VS.Net\ArithmeticOperators\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.genruntimeconfig.cache
