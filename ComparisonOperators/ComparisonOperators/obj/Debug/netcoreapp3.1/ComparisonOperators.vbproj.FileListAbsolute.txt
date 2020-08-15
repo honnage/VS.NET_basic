@@ -1,0 +1,13 @@
+D:\Project\VS.Net\ComparisonOperators\ComparisonOperators\bin\Debug\netcoreapp3.1\ComparisonOperators.exe
+D:\Project\VS.Net\ComparisonOperators\ComparisonOperators\bin\Debug\netcoreapp3.1\ComparisonOperators.deps.json
+D:\Project\VS.Net\ComparisonOperators\ComparisonOperators\bin\Debug\netcoreapp3.1\ComparisonOperators.runtimeconfig.json
+D:\Project\VS.Net\ComparisonOperators\ComparisonOperators\bin\Debug\netcoreapp3.1\ComparisonOperators.runtimeconfig.dev.json
+D:\Project\VS.Net\ComparisonOperators\ComparisonOperators\bin\Debug\netcoreapp3.1\ComparisonOperators.dll
+D:\Project\VS.Net\ComparisonOperators\ComparisonOperators\bin\Debug\netcoreapp3.1\ComparisonOperators.pdb
+D:\Project\VS.Net\ComparisonOperators\ComparisonOperators\obj\Debug\netcoreapp3.1\ComparisonOperators.vbprojAssemblyReference.cache
+D:\Project\VS.Net\ComparisonOperators\ComparisonOperators\obj\Debug\netcoreapp3.1\ComparisonOperators.vbproj.CoreCompileInputs.cache
+D:\Project\VS.Net\ComparisonOperators\ComparisonOperators\obj\Debug\netcoreapp3.1\ComparisonOperators.AssemblyInfoInputs.cache
+D:\Project\VS.Net\ComparisonOperators\ComparisonOperators\obj\Debug\netcoreapp3.1\ComparisonOperators.AssemblyInfo.vb
+D:\Project\VS.Net\ComparisonOperators\ComparisonOperators\obj\Debug\netcoreapp3.1\ComparisonOperators.dll
+D:\Project\VS.Net\ComparisonOperators\ComparisonOperators\obj\Debug\netcoreapp3.1\ComparisonOperators.pdb
+D:\Project\VS.Net\ComparisonOperators\ComparisonOperators\obj\Debug\netcoreapp3.1\ComparisonOperators.genruntimeconfig.cache
