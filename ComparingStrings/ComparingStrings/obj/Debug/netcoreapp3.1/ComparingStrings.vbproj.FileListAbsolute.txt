@@ -1,0 +1,13 @@
+D:\Project\VS.Net\ComparingStrings\ComparingStrings\bin\Debug\netcoreapp3.1\ComparingStrings.exe
+D:\Project\VS.Net\ComparingStrings\ComparingStrings\bin\Debug\netcoreapp3.1\ComparingStrings.deps.json
+D:\Project\VS.Net\ComparingStrings\ComparingStrings\bin\Debug\netcoreapp3.1\ComparingStrings.runtimeconfig.json
+D:\Project\VS.Net\ComparingStrings\ComparingStrings\bin\Debug\netcoreapp3.1\ComparingStrings.runtimeconfig.dev.json
+D:\Project\VS.Net\ComparingStrings\ComparingStrings\bin\Debug\netcoreapp3.1\ComparingStrings.dll
+D:\Project\VS.Net\ComparingStrings\ComparingStrings\bin\Debug\netcoreapp3.1\ComparingStrings.pdb
+D:\Project\VS.Net\ComparingStrings\ComparingStrings\obj\Debug\netcoreapp3.1\ComparingStrings.vbprojAssemblyReference.cache
+D:\Project\VS.Net\ComparingStrings\ComparingStrings\obj\Debug\netcoreapp3.1\ComparingStrings.vbproj.CoreCompileInputs.cache
+D:\Project\VS.Net\ComparingStrings\ComparingStrings\obj\Debug\netcoreapp3.1\ComparingStrings.AssemblyInfoInputs.cache
+D:\Project\VS.Net\ComparingStrings\ComparingStrings\obj\Debug\netcoreapp3.1\ComparingStrings.AssemblyInfo.vb
+D:\Project\VS.Net\ComparingStrings\ComparingStrings\obj\Debug\netcoreapp3.1\ComparingStrings.dll
+D:\Project\VS.Net\ComparingStrings\ComparingStrings\obj\Debug\netcoreapp3.1\ComparingStrings.pdb
+D:\Project\VS.Net\ComparingStrings\ComparingStrings\obj\Debug\netcoreapp3.1\ComparingStrings.genruntimeconfig.cache
