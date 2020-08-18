@@ -1,0 +1,13 @@
+D:\Project\DEV_Code\VS.Net\VS_Basic\IfThenElseAndSelectCase\IfThenElseAndSelectCase\bin\Debug\netcoreapp3.1\IfThenElseAndSelectCase.exe
+D:\Project\DEV_Code\VS.Net\VS_Basic\IfThenElseAndSelectCase\IfThenElseAndSelectCase\bin\Debug\netcoreapp3.1\IfThenElseAndSelectCase.deps.json
+D:\Project\DEV_Code\VS.Net\VS_Basic\IfThenElseAndSelectCase\IfThenElseAndSelectCase\bin\Debug\netcoreapp3.1\IfThenElseAndSelectCase.runtimeconfig.json
+D:\Project\DEV_Code\VS.Net\VS_Basic\IfThenElseAndSelectCase\IfThenElseAndSelectCase\bin\Debug\netcoreapp3.1\IfThenElseAndSelectCase.runtimeconfig.dev.json
+D:\Project\DEV_Code\VS.Net\VS_Basic\IfThenElseAndSelectCase\IfThenElseAndSelectCase\bin\Debug\netcoreapp3.1\IfThenElseAndSelectCase.dll
+D:\Project\DEV_Code\VS.Net\VS_Basic\IfThenElseAndSelectCase\IfThenElseAndSelectCase\bin\Debug\netcoreapp3.1\IfThenElseAndSelectCase.pdb
+D:\Project\DEV_Code\VS.Net\VS_Basic\IfThenElseAndSelectCase\IfThenElseAndSelectCase\obj\Debug\netcoreapp3.1\IfThenElseAndSelectCase.vbprojAssemblyReference.cache
+D:\Project\DEV_Code\VS.Net\VS_Basic\IfThenElseAndSelectCase\IfThenElseAndSelectCase\obj\Debug\netcoreapp3.1\IfThenElseAndSelectCase.AssemblyInfoInputs.cache
+D:\Project\DEV_Code\VS.Net\VS_Basic\IfThenElseAndSelectCase\IfThenElseAndSelectCase\obj\Debug\netcoreapp3.1\IfThenElseAndSelectCase.AssemblyInfo.vb
+D:\Project\DEV_Code\VS.Net\VS_Basic\IfThenElseAndSelectCase\IfThenElseAndSelectCase\obj\Debug\netcoreapp3.1\IfThenElseAndSelectCase.vbproj.CoreCompileInputs.cache
+D:\Project\DEV_Code\VS.Net\VS_Basic\IfThenElseAndSelectCase\IfThenElseAndSelectCase\obj\Debug\netcoreapp3.1\IfThenElseAndSelectCase.dll
+D:\Project\DEV_Code\VS.Net\VS_Basic\IfThenElseAndSelectCase\IfThenElseAndSelectCase\obj\Debug\netcoreapp3.1\IfThenElseAndSelectCase.pdb
+D:\Project\DEV_Code\VS.Net\VS_Basic\IfThenElseAndSelectCase\IfThenElseAndSelectCase\obj\Debug\netcoreapp3.1\IfThenElseAndSelectCase.genruntimeconfig.cache
