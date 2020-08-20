@@ -1,0 +1,26 @@
+D:\Project\DEV_Code\VS.Net\VS_Basic\ComparsionOperators\ComparsionOperators\bin\Debug\netcoreapp3.1\ComparsionOperators.exe
+D:\Project\DEV_Code\VS.Net\VS_Basic\ComparsionOperators\ComparsionOperators\bin\Debug\netcoreapp3.1\ComparsionOperators.deps.json
+D:\Project\DEV_Code\VS.Net\VS_Basic\ComparsionOperators\ComparsionOperators\bin\Debug\netcoreapp3.1\ComparsionOperators.runtimeconfig.json
+D:\Project\DEV_Code\VS.Net\VS_Basic\ComparsionOperators\ComparsionOperators\bin\Debug\netcoreapp3.1\ComparsionOperators.runtimeconfig.dev.json
+D:\Project\DEV_Code\VS.Net\VS_Basic\ComparsionOperators\ComparsionOperators\bin\Debug\netcoreapp3.1\ComparsionOperators.dll
+D:\Project\DEV_Code\VS.Net\VS_Basic\ComparsionOperators\ComparsionOperators\bin\Debug\netcoreapp3.1\ComparsionOperators.pdb
+D:\Project\DEV_Code\VS.Net\VS_Basic\ComparsionOperators\ComparsionOperators\obj\Debug\netcoreapp3.1\ComparsionOperators.vbprojAssemblyReference.cache
+D:\Project\DEV_Code\VS.Net\VS_Basic\ComparsionOperators\ComparsionOperators\obj\Debug\netcoreapp3.1\ComparsionOperators.AssemblyInfoInputs.cache
+D:\Project\DEV_Code\VS.Net\VS_Basic\ComparsionOperators\ComparsionOperators\obj\Debug\netcoreapp3.1\ComparsionOperators.AssemblyInfo.vb
+D:\Project\DEV_Code\VS.Net\VS_Basic\ComparsionOperators\ComparsionOperators\obj\Debug\netcoreapp3.1\ComparsionOperators.vbproj.CoreCompileInputs.cache
+D:\Project\DEV_Code\VS.Net\VS_Basic\ComparsionOperators\ComparsionOperators\obj\Debug\netcoreapp3.1\ComparsionOperators.dll
+D:\Project\DEV_Code\VS.Net\VS_Basic\ComparsionOperators\ComparsionOperators\obj\Debug\netcoreapp3.1\ComparsionOperators.pdb
+D:\Project\DEV_Code\VS.Net\VS_Basic\ComparsionOperators\ComparsionOperators\obj\Debug\netcoreapp3.1\ComparsionOperators.genruntimeconfig.cache
+D:\Project\DEV_Code\VS.Net\VS_Basic\Comparison Operators Grade\ComparsionOperators\bin\Debug\netcoreapp3.1\ComparsionOperators.exe
+D:\Project\DEV_Code\VS.Net\VS_Basic\Comparison Operators Grade\ComparsionOperators\bin\Debug\netcoreapp3.1\ComparsionOperators.deps.json
+D:\Project\DEV_Code\VS.Net\VS_Basic\Comparison Operators Grade\ComparsionOperators\bin\Debug\netcoreapp3.1\ComparsionOperators.runtimeconfig.json
+D:\Project\DEV_Code\VS.Net\VS_Basic\Comparison Operators Grade\ComparsionOperators\bin\Debug\netcoreapp3.1\ComparsionOperators.runtimeconfig.dev.json
+D:\Project\DEV_Code\VS.Net\VS_Basic\Comparison Operators Grade\ComparsionOperators\bin\Debug\netcoreapp3.1\ComparsionOperators.dll
+D:\Project\DEV_Code\VS.Net\VS_Basic\Comparison Operators Grade\ComparsionOperators\bin\Debug\netcoreapp3.1\ComparsionOperators.pdb
+D:\Project\DEV_Code\VS.Net\VS_Basic\Comparison Operators Grade\ComparsionOperators\obj\Debug\netcoreapp3.1\ComparsionOperators.vbprojAssemblyReference.cache
+D:\Project\DEV_Code\VS.Net\VS_Basic\Comparison Operators Grade\ComparsionOperators\obj\Debug\netcoreapp3.1\ComparsionOperators.AssemblyInfoInputs.cache
+D:\Project\DEV_Code\VS.Net\VS_Basic\Comparison Operators Grade\ComparsionOperators\obj\Debug\netcoreapp3.1\ComparsionOperators.AssemblyInfo.vb
+D:\Project\DEV_Code\VS.Net\VS_Basic\Comparison Operators Grade\ComparsionOperators\obj\Debug\netcoreapp3.1\ComparsionOperators.vbproj.CoreCompileInputs.cache
+D:\Project\DEV_Code\VS.Net\VS_Basic\Comparison Operators Grade\ComparsionOperators\obj\Debug\netcoreapp3.1\ComparsionOperators.dll
+D:\Project\DEV_Code\VS.Net\VS_Basic\Comparison Operators Grade\ComparsionOperators\obj\Debug\netcoreapp3.1\ComparsionOperators.pdb
+D:\Project\DEV_Code\VS.Net\VS_Basic\Comparison Operators Grade\ComparsionOperators\obj\Debug\netcoreapp3.1\ComparsionOperators.genruntimeconfig.cache
